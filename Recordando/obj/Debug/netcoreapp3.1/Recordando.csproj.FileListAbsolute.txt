@@ -1,0 +1,14 @@
+C:\Users\Programador\source\repos\Recordando\Recordando\bin\Debug\netcoreapp3.1\Recordando.exe
+C:\Users\Programador\source\repos\Recordando\Recordando\bin\Debug\netcoreapp3.1\Recordando.deps.json
+C:\Users\Programador\source\repos\Recordando\Recordando\bin\Debug\netcoreapp3.1\Recordando.runtimeconfig.json
+C:\Users\Programador\source\repos\Recordando\Recordando\bin\Debug\netcoreapp3.1\Recordando.runtimeconfig.dev.json
+C:\Users\Programador\source\repos\Recordando\Recordando\bin\Debug\netcoreapp3.1\Recordando.dll
+C:\Users\Programador\source\repos\Recordando\Recordando\bin\Debug\netcoreapp3.1\Recordando.pdb
+C:\Users\Programador\source\repos\Recordando\Recordando\obj\Debug\netcoreapp3.1\Recordando.csproj.AssemblyReference.cache
+C:\Users\Programador\source\repos\Recordando\Recordando\obj\Debug\netcoreapp3.1\Recordando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programador\source\repos\Recordando\Recordando\obj\Debug\netcoreapp3.1\Recordando.AssemblyInfoInputs.cache
+C:\Users\Programador\source\repos\Recordando\Recordando\obj\Debug\netcoreapp3.1\Recordando.AssemblyInfo.cs
+C:\Users\Programador\source\repos\Recordando\Recordando\obj\Debug\netcoreapp3.1\Recordando.csproj.CoreCompileInputs.cache
+C:\Users\Programador\source\repos\Recordando\Recordando\obj\Debug\netcoreapp3.1\Recordando.dll
+C:\Users\Programador\source\repos\Recordando\Recordando\obj\Debug\netcoreapp3.1\Recordando.pdb
+C:\Users\Programador\source\repos\Recordando\Recordando\obj\Debug\netcoreapp3.1\Recordando.genruntimeconfig.cache
